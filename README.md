@@ -18,25 +18,77 @@ class BackendDeveloper
     public function __construct()
     {
         $this->expertise = [
-            'framework' => ['Laravel', 'Lumen', 'Livewire', 'Filament'],
+            'framework' => ['Laravel', 'Filament'],
             'languages' => ['PHP', 'SQL', 'JavaScript', 'HTML/CSS'],
-            'databases' => ['MySQL', 'PostgreSQL', 'Redis'],
+            'databases' => ['MySQL'],
             'api' => ['RESTful APIs', 'API Development', 'API Integration'],
             'tools' => [
-                'Git', 'GitHub', 'Composer', 'PHPUnit',
-                'Postman', 'VS Code', 'PhpStorm'
+                'Git', 'GitHub', 'Composer',
+                'Postman', 'VS Code', 'Qoder'
             ],
-            'architecture' => [
-                'MVC', 'Repository Pattern', 'Service Layer',
-                'SOLID Principles', 'Design Patterns'
-            ],
-            'testing' => ['PHPUnit', 'Unit Testing', 'Feature Testing'],
             'laravel_packages' => [
-                'Filament Admin Panel', 'Laravel Livewire',
-                'Laravel Sanctum', 'Laravel Breeze'
+                'Laravel Framework 12',
+                'Filament Admin Panel v3',
+                'Laravel Sanctum (API Authentication)',
+                'Laravel Breeze',
+                'Laravel Socialite',
+                'Laravel Tinker',
+                'Spatie Laravel Permission (via Filament Shield)',
+                'Filament Shield (Role & Permission Management)',
+                'Laravel Inertia.js',
             ],
-            'payment' => ['Payment Gateway Integration'],
-            'other' => ['React Native', 'Mobile App Development'],
+            
+            'graphql' => [
+                'Nuwave Lighthouse (GraphQL Server)',
+                'Laravel GraphiQL',
+                'GraphQL PHP Scalars',
+            ],
+            
+            'authentication' => [
+                'JWT Authentication (php-open-source-saver/jwt-auth)',
+                'Laravel Sanctum',
+                'Firebase PHP SDK',
+                'Google API Client',
+                'Socialite Providers (Google Login)',
+            ],
+            
+            'payment' => [
+                'Telr Payment Gateway Integration',
+            ],
+            
+            'email_notifications' => [
+                'Laravel Brevo (Email Service)',
+                'Firebase Cloud Messaging (Push Notifications)',
+            ],
+            
+            'frontend' => [
+                'Vue 3',
+                'Inertia.js',
+                'Vite (Build Tool)',
+                'Tailwind CSS',
+                'Ziggy (Laravel Route Helper)',
+            ],
+            
+            'storage' => [
+                'AWS S3 (League Flysystem)',
+            ],
+            
+            
+            'development' => [
+                'Laravel Pint (Code Style)',
+                'Laravel Sail',
+                'Laravel Pail (Log Viewer)',
+                'PHPUnit',
+                'Faker',
+                'Mockery',
+            ],
+            
+            'other' => [
+                'Docker & Docker Compose',
+                'Guzzle HTTP Client',
+                'Composer',
+                'npm/Yarn',
+            ],
         ];
     }
 
@@ -66,28 +118,13 @@ class BackendDeveloper
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-#### Frontend & Mobile
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel-livewire&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -100,13 +137,6 @@ Contributor to Filament - A powerful open source UI framework for Laravel
 - 📊 Created custom Filament components
 - **Tech:** Laravel, Livewire, Filament, PHP
 
-#### 🔹 [React Native Mobile Apps](https://github.com/m3taz-ahmed)
-Mobile application development projects
-- 📱 **demo1** - React Native demo application (Objective-C)
-- 📋 **demo-list-of-albums** - Simple list of albums with React Native (JavaScript)
-- 🚀 Cross-platform mobile development
-- **Tech:** React Native, JavaScript, Objective-C
-
 #### 🔹 Laravel Backend Projects
 Custom Laravel applications and API development
 - 🔐 Authentication & Authorization systems
@@ -115,26 +145,18 @@ Custom Laravel applications and API development
 - 💾 Database design and optimization
 - **Tech:** Laravel, MySQL, PHP, Filament
 
-#### 🔹 Freelance Projects
-Various client projects delivered successfully
-- 🛒 E-commerce platforms
-- 📱 Mobile app backends
-- 🔗 Third-party API integrations
-- 💼 Custom business applications
-- **Tech:** Laravel, PHP, MySQL, REST APIs
-
 ---
 
 ### 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m3taz-ahmed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3taz-ahmed&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3taz-ahmed&theme=radical" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 ---
 
@@ -143,7 +165,6 @@ Various client projects delivered successfully
 - ✅ **Laravel Freelance Developer** with proven track record
 - ✅ Contributor to **Filament PHP** open-source project
 - ✅ Built production-ready Laravel applications
-- ✅ Experience with **React Native** mobile development
 - ✅ Expertise in **Filament Admin Panel** implementation
 - ✅ Strong background in **RESTful API** development
 - ✅ Delivered multiple successful freelance projects
@@ -164,11 +185,10 @@ Various client projects delivered successfully
 
 ### 🎓 Technical Skills
 
-- 💻 **Backend:** Laravel, PHP, Lumen, REST APIs
+- 💻 **Backend:** Laravel, PHP, REST APIs
 - 🎨 **Frontend:** Livewire, Filament, HTML, CSS, JavaScript
-- 📱 **Mobile:** React Native (iOS & Android)
-- 🗄️ **Databases:** MySQL, PostgreSQL, Redis
-- 🛠️ **Tools:** Git, GitHub, Composer, Postman, VS Code
+- 🗄️ **Databases:** MySQL
+- 🛠️ **Tools:** Git, GitHub, Postman, VS Code, Qoder
 - 📦 **Packages:** Filament, Livewire, Sanctum, Breeze
 
 ---
@@ -201,10 +221,8 @@ class WhyHireMe
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m3taz-ahmed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-ahmed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moataz.ahmed.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataz-ahmed-552baa3b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moataz_ahmed_dev)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/moatazahmed)
 
 </div>
 
