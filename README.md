@@ -11,83 +11,143 @@ I'm a passionate **Laravel Backend Developer** and **Freelance Developer** speci
 ```php
 <?php
 
-namespace MetazAhmed\Skills;
+namespace MotazAhmed\Skills;
 
 class BackendDeveloper
 {
+    private string $name = 'Moataz Ahmed';
+    private string $role = 'Senior Laravel Backend Developer';
+    private int $yearsOfExperience = 5;
+    
     public function __construct()
     {
         $this->expertise = [
-            'framework' => ['Laravel', 'Filament'],
-            'languages' => ['PHP', 'SQL', 'JavaScript', 'HTML/CSS'],
-            'databases' => ['MySQL'],
-            'api' => ['RESTful APIs', 'API Development', 'API Integration'],
-            'tools' => [
-                'Git', 'GitHub', 'Composer',
-                'Postman', 'VS Code', 'Qoder'
-            ],
-            'laravel_packages' => [
-                'Laravel Framework 12',
-                'Filament Admin Panel v3',
-                'Laravel Sanctum (API Authentication)',
-                'Laravel Breeze',
-                'Laravel Socialite',
-                'Laravel Tinker',
-                'Spatie Laravel Permission (via Filament Shield)',
-                'Filament Shield (Role & Permission Management)',
-                'Laravel Inertia.js',
+            'core_technologies' => [
+                'framework' => ['Laravel 11/12', 'Filament Admin Panel v3'],
+                'languages' => ['PHP 8.2+', 'SQL', 'JavaScript ES6+', 'HTML5/CSS3'],
+                'databases' => ['MySQL 8.0', 'Database Design & Optimization'],
+                'api_development' => [
+                    'RESTful API Design & Development',
+                    'GraphQL API Development',
+                    'API Authentication & Security',
+                    'API Documentation (OpenAPI/Swagger)',
+                    'Third-party API Integration',
+                    'Webhook Implementation',
+                ],
             ],
             
-            'graphql' => [
-                'Nuwave Lighthouse (GraphQL Server)',
-                'Laravel GraphiQL',
-                'GraphQL PHP Scalars',
+            'laravel_ecosystem' => [
+                'core_framework' => [
+                    'Laravel Framework 11/12',
+                    'Eloquent ORM & Query Builder',
+                    'Laravel Collections',
+                    'Service Container & Dependency Injection',
+                    'Middleware & Request Lifecycle',
+                    'Events & Listeners',
+                    'Jobs & Queues',
+                    'Task Scheduling',
+                ],
+                'authentication' => [
+                    'Laravel Sanctum (SPA & Mobile API Auth)',
+                    'JWT Authentication (php-open-source-saver/jwt-auth)',
+                    'Laravel Breeze',
+                    'Laravel Socialite (OAuth)',
+                    'Firebase PHP SDK',
+                    'Google API Client Integration',
+                    'Socialite Providers (Google, Facebook, GitHub)',
+                    'Multi-factor Authentication',
+                ],
+                'admin_panels' => [
+                    'Filament Admin Panel v3',
+                    'Filament Shield (Roles & Permissions)',
+                    'Spatie Laravel Permission',
+                    'Custom Filament Resources & Pages',
+                    'Filament Forms & Tables Builder',
+                    'Filament Widgets & Charts',
+                ],
+                'graphql' => [
+                    'Nuwave Lighthouse (GraphQL Server)',
+                    'Laravel GraphiQL',
+                    'GraphQL Schema Design',
+                    'GraphQL PHP Scalars',
+                    'Query Optimization & DataLoader',
+                ],
             ],
             
-            'authentication' => [
-                'JWT Authentication (php-open-source-saver/jwt-auth)',
-                'Laravel Sanctum',
-                'Firebase PHP SDK',
-                'Google API Client',
-                'Socialite Providers (Google Login)',
+            'third_party_integrations' => [
+                'payment_gateways' => [
+                    'Telr Payment Gateway Integration',
+                    'Stripe API Integration',
+                    'PayPal Integration',
+                    'Payment Webhooks & Callbacks',
+                ],
+                'notifications' => [
+                    'Laravel Brevo (Sendinblue Email Service)',
+                    'Firebase Cloud Messaging (Push Notifications)',
+                    'Laravel Notifications (Email, SMS, Slack)',
+                    'Real-time Notifications',
+                ],
+                'storage_cloud' => [
+                    'AWS S3 (League Flysystem)',
+                    'File Upload & Management',
+                    'Image Optimization & Processing',
+                    'Cloud Storage Integration',
+                ],
             ],
             
-            'payment' => [
-                'Telr Payment Gateway Integration',
-            ],
-            
-            'email_notifications' => [
-                'Laravel Brevo (Email Service)',
-                'Firebase Cloud Messaging (Push Notifications)',
-            ],
-            
-            'frontend' => [
-                'Vue 3',
-                'Inertia.js',
-                'Vite (Build Tool)',
+            'frontend_integration' => [
+                'Vue 3 (Composition API)',
+                'Inertia.js (Modern Monolith)',
+                'Laravel Livewire',
+                'Vite (Modern Build Tool)',
                 'Tailwind CSS',
-                'Ziggy (Laravel Route Helper)',
+                'Alpine.js',
+                'Ziggy (Laravel Routes in JavaScript)',
+                'SPA Development',
             ],
             
-            'storage' => [
-                'AWS S3 (League Flysystem)',
+            'testing_quality' => [
+                'PHPUnit (Unit & Feature Testing)',
+                'Laravel Dusk (Browser Testing)',
+                'Test-Driven Development (TDD)',
+                'Faker (Test Data Generation)',
+                'Mockery (Mocking & Stubbing)',
+                'Code Coverage Analysis',
+                'Laravel Pint (Code Style Enforcement)',
             ],
             
-            
-            'development' => [
-                'Laravel Pint (Code Style)',
-                'Laravel Sail',
-                'Laravel Pail (Log Viewer)',
-                'PHPUnit',
-                'Faker',
-                'Mockery',
+            'development_tools' => [
+                'version_control' => ['Git', 'GitHub', 'GitFlow Workflow', 'Git Hooks'],
+                'development_environment' => [
+                    'Laravel Sail (Docker)',
+                    'Docker & Docker Compose',
+                    'Laravel Homestead',
+                    'Valet (macOS)',
+                ],
+                'debugging_monitoring' => [
+                    'Laravel Telescope',
+                    'Laravel Pail (Log Viewer)',
+                    'Laravel Debugbar',
+                    'XDebug',
+                    'Application Performance Monitoring',
+                ],
+                'ide_tools' => [
+                    'VS Code', 'Qoder IDE',
+                    'PhpStorm', 'Composer',
+                    'Postman / Insomnia',
+                    'npm / Yarn / pnpm',
+                ],
             ],
             
-            'other' => [
-                'Docker & Docker Compose',
-                'Guzzle HTTP Client',
-                'Composer',
-                'npm/Yarn',
+            'best_practices' => [
+                'Clean Code & SOLID Principles',
+                'Design Patterns (Repository, Factory, Observer, Strategy)',
+                'RESTful API Best Practices',
+                'Database Indexing & Query Optimization',
+                'Caching Strategies (Redis, Memcached)',
+                'Security Best Practices (OWASP)',
+                'Code Review & Refactoring',
+                'Documentation & Technical Writing',
             ],
         ];
     }
@@ -95,17 +155,30 @@ class BackendDeveloper
     public function currentFocus(): array
     {
         return [
-            '🔨 Building production-ready Laravel applications',
-            '🎯 Developing with Filament Admin Panel',
-            '📚 Freelance Laravel development projects',
-            '🚀 Creating efficient RESTful APIs',
-            '💼 Open to freelance opportunities worldwide',
+            '🔨 Building production-ready, scalable Laravel applications',
+            '🎯 Developing modern admin panels with Filament v3',
+            '📚 Delivering high-quality freelance Laravel projects',
+            '🚀 Creating secure and efficient RESTful & GraphQL APIs',
+            '⚡ Performance optimization and database tuning',
+            '🧪 Implementing comprehensive testing strategies',
+            '💼 Available for freelance opportunities worldwide',
         ];
     }
 
     public function workStyle(): string
     {
-        return 'Freelance Developer | Remote Work | Full-time Available';
+        return 'Freelance Developer | Remote Work Specialist | Full-time Available | Agile Methodology';
+    }
+    
+    public function availability(): array
+    {
+        return [
+            'status' => 'Available for Hire',
+            'contract_types' => ['Freelance', 'Contract', 'Part-time', 'Full-time'],
+            'preferred_engagement' => 'Long-term partnerships',
+            'timezone_flexible' => true,
+            'response_time' => 'Within 24 hours',
+        ];
     }
 }
 ```
@@ -222,7 +295,6 @@ class WhyHireMe
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m3taz-ahmed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moataz-ahmed-552baa3b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moataz_ahmed_dev)
 
 </div>
 
