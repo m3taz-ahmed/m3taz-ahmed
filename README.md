@@ -1,12 +1,76 @@
-# 💫 About Me:
-Laravel & PHP Specialist with 4+ years of proven freelance success. I build robust, scalable backend systems and APIs that drive business growth. Known for clean code, meeting tight deadlines, and solving complex technical challenges — I help startups and businesses turn ideas into high-performance web applications.
+# Moataz Ahmed 👋
+### Senior Back-End Developer | Laravel & PHP Specialist
 
+**Cairo, Egypt** | 📞 +201001495645 | ✉️ m3taz.ahmed@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/m3taz-ahmed/) | 💻 [GitHub](https://github.com/m3taz-ahmed/)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m3taz.ahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m3taz-ahmed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/M3tazAhmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m3taz.ahmed@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m3taz-ahmed&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=m3taz-ahmed&theme=merko&hide_border=false)
+## 📝 Profile
+Senior Back-End Developer with **4+ years of success** in building robust, scalable systems. Specialist in **Laravel & PHP**, with a proven track record in developing complex **Booking Engines** and **Business Directories**. Expert in crafting high-performance applications using **Filament** for advanced dashboards. Dedicated to clean code, SOLID principles, and delivering high-impact technical solutions.
+
+---
+
+## 🚀 Key Achievements
+* **High-Scale Systems:** Engineered a ticketing platform for **SkyBridge** handling **28,000+ bookings** with 99.9% uptime.
+* **Rapid Development:** Leveraged **Filament** to build sophisticated admin dashboards, significantly reducing development cycles for complex CRUD operations.
+* **Business Growth:** Developed a B2B directory that successfully onboarded **200+ businesses** within the first quarter of launch.
+* **Performance Optimization:** Optimized legacy systems and databases, resulting in a **35% increase** in user conversions and bookings.
+
+---
+
+## 🛠 Technical Skills
+* **Frameworks & Languages:** PHP (Laravel), Dart (Flutter), JavaScript.
+* **Back-End Tools:** RESTful APIs, Filament (Advanced Dashboards), Redis (Caching).
+* **Databases & DevOps:** MySQL, Database Design & Optimization, Git/GitHub, Docker, Nginx.
+* **Architecture:** SOLID Principles, MVC, Design Patterns, System Architecture Thinking.
+
+---
+
+## 💼 Work Experience
+
+#### **360Codes** | Back-End Developer
+*Jan 2016 – Present*
+* Lead the development of scalable backend architectures using **Laravel**.
+* Build and maintain high-performance APIs and integrate advanced admin dashboards using **Filament**.
+
+#### **Freelance Software Developer**
+*2009 – 2016*
+* Designed and maintained various web applications for local clients using PHP and MySQL.
+* Focused on building custom CMS solutions and optimizing database performance for small-scale businesses.
+
+#### **Memphis Tours Egypt** | Web Developer
+*Until Sep 2009*
+* Maintained and enhanced legacy tourism platforms using PHP/MySQL.
+* Optimized server performance and improved UX for high-traffic seasonal periods.
+
+---
+
+## 📁 Featured Projects
+
+### 🎫 [SkyBridge](https://facilitiesservices.sa)
+* Engineered a high-traffic ticketing system processing **28,000+ bookings**.
+* Architected the full-stack solution with secure payment gateway integration.
+
+### ⚓ [Raunautica](https://raunautica.com)
+* Developed a maritime management platform with a **Custom Filament Admin Dashboard**.
+* Designed scalable backend to handle real-time docking requests.
+
+### 🏥 [IshraqMed](https://ishraqmed.net)
+* Created an appointment scheduling system with Push notifications.
+* **Result:** Increased patient bookings by **35%**.
+
+### 💼 [Business Belarabi](https://businessbelarabi.com)
+* Built a multi-vendor platform with advanced search filters.
+* **Result:** Onboarded **200+ businesses** in the first 3 months.
+
+---
+
+## 🎓 Education
+* **Bachelor of Commerce**, Ain Shams University (June 2006).
+
+---
+
+## 🗣️ Languages
+* **Arabic:** Native.
+* **English:** Professional Working Proficiency.
