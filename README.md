@@ -1,76 +1,59 @@
-# Moataz Ahmed 👋
-### Senior Back-End Developer | Laravel & PHP Specialist
+# Moataz Ahmed
 
-**Cairo, Egypt** | 📞 +201001495645 | ✉️ m3taz.ahmed@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/m3taz-ahmed/) | 💻 [GitHub](https://github.com/m3taz-ahmed/)
+### Senior Software Engineer & Systems Architect | Laravel · Filament · Audit-Ready Systems · Sovereign AI
 
----
-
-## 📝 Profile
-Senior Back-End Developer with **4+ years of success** in building robust, scalable systems. Specialist in **Laravel & PHP**, with a proven track record in developing complex **Booking Engines** and **Business Directories**. Expert in crafting high-performance applications using **Filament** for advanced dashboards. Dedicated to clean code, SOLID principles, and delivering high-impact technical solutions.
+**Cairo, Egypt** | ✉️ m3taz.ahmed@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/m3taz-ahmed/) | 💻 [Portfolio](https://m3taz-ahmed.github.io/)
 
 ---
 
-## 🚀 Key Achievements
-* **High-Scale Systems:** Engineered a ticketing platform for **SkyBridge** handling **28,000+ bookings** with 99.9% uptime.
-* **Rapid Development:** Leveraged **Filament** to build sophisticated admin dashboards, significantly reducing development cycles for complex CRUD operations.
-* **Business Growth:** Developed a B2B directory that successfully onboarded **200+ businesses** within the first quarter of launch.
-* **Performance Optimization:** Optimized legacy systems and databases, resulting in a **35% increase** in user conversions and bookings.
+## Profile
+
+Senior Software Engineer & Systems Architect with **15+ years** of experience designing scalable, audit-ready backend systems and Sovereign AI governance frameworks. I specialize in **Laravel**, **Filament**, complex business logic, real-time systems, and internal audit digital transformation.
+
+I build systems that survive scale and scrutiny: high-traffic booking engines, B2B directories, maritime operations dashboards, and compliance platforms with strict RBAC, data integrity, and audit trails.
 
 ---
 
-## 🛠 Technical Skills
-* **Frameworks & Languages:** PHP (Laravel), Dart (Flutter), JavaScript.
-* **Back-End Tools:** RESTful APIs, Filament (Advanced Dashboards), Redis (Caching).
-* **Databases & DevOps:** MySQL, Database Design & Optimization, Git/GitHub, Docker, Nginx.
-* **Architecture:** SOLID Principles, MVC, Design Patterns, System Architecture Thinking.
+## Featured Case Studies
+
+- **[SkyBridge Ticketing Platform](https://github.com/m3taz-ahmed/case-study-skybridge)** — 28,000+ bookings at 99.9% uptime.
+- **[Raunautica Maritime Dashboard](https://github.com/m3taz-ahmed/case-study-raunautica)** — real-time marina operations automation.
+- **[Internal Audit Digital Transformation](https://github.com/m3taz-ahmed/case-study-internal-audit)** — 100% data consistency for PPC.
+
+More projects and live products: [m3taz-ahmed.github.io](https://m3taz-ahmed.github.io/)
 
 ---
 
-## 💼 Work Experience
+## Key Achievements
 
-#### **360Codes** | Back-End Developer
-*Jan 2016 – Present*
-* Lead the development of scalable backend architectures using **Laravel**.
-* Build and maintain high-performance APIs and integrate advanced admin dashboards using **Filament**.
-
-#### **Freelance Software Developer**
-*2009 – 2016*
-* Designed and maintained various web applications for local clients using PHP and MySQL.
-* Focused on building custom CMS solutions and optimizing database performance for small-scale businesses.
-
-#### **Memphis Tours Egypt** | Web Developer
-*Until Sep 2009*
-* Maintained and enhanced legacy tourism platforms using PHP/MySQL.
-* Optimized server performance and improved UX for high-traffic seasonal periods.
+- **SkyBridge:** 28,000+ bookings processed with 99.9% uptime during peak hours.
+- **IshraqMed:** 35% increase in patient bookings through real-time scheduling and notifications.
+- **Business Belarabi:** 200+ businesses onboarded in the first quarter.
+- **PPC Internal Audit:** 100% data consistency and automated quarterly compliance reporting.
 
 ---
 
-## 📁 Featured Projects
+## Core Stack
 
-### 🎫 [SkyBridge](https://facilitiesservices.sa)
-* Engineered a high-traffic ticketing system processing **28,000+ bookings**.
-* Architected the full-stack solution with secure payment gateway integration.
-
-### ⚓ [Raunautica](https://raunautica.com)
-* Developed a maritime management platform with a **Custom Filament Admin Dashboard**.
-* Designed scalable backend to handle real-time docking requests.
-
-### 🏥 [IshraqMed](https://ishraqmed.net)
-* Created an appointment scheduling system with Push notifications.
-* **Result:** Increased patient bookings by **35%**.
-
-### 💼 [Business Belarabi](https://businessbelarabi.com)
-* Built a multi-vendor platform with advanced search filters.
-* **Result:** Onboarded **200+ businesses** in the first 3 months.
+- **Backend:** PHP, Laravel, Node.js, REST, GraphQL, Microservices
+- **Admin & UI:** Filament, Livewire, Alpine.js, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, Redis
+- **Architecture:** SOLID, MVC, Design Patterns, RBAC, OWASP, Audit-Ready Design
+- **DevOps:** Docker, GitHub Actions, Linux (Nginx/Apache)
 
 ---
 
-## 🎓 Education
-* **Bachelor of Commerce**, Ain Shams University (June 2006).
+## Open Source
+
+- **[AI Global OS](https://github.com/m3taz-ahmed/ai-globals)** — version-controlled AI governance and architectural rules for Sovereign AI.
 
 ---
 
-## 🗣️ Languages
-* **Arabic:** Native.
-* **English:** Professional Working Proficiency.
+## Education & Languages
+
+- **Bachelor of Commerce**, Ain Shams University (June 2006)
+- **Arabic:** Native · **English:** Professional Working Proficiency
+
+---
+
+📫 Open to senior backend and architecture opportunities in Egypt, the GCC, and remote.
