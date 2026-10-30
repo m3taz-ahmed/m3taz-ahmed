@@ -4,6 +4,11 @@
 
 **Cairo, Egypt** | ✉️ m3taz.ahmed@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/m3taz-ahmed/) | 💻 [Portfolio](https://m3taz-ahmed.github.io/)
 
+[![aiZee](https://img.shields.io/badge/aiZee-v6.5.0-6C63FF?style=for-the-badge)](https://github.com/m3taz-ahmed/aizee)
+[![Tests](https://img.shields.io/badge/tests-7400%2B%20passed-00C896?style=for-the-badge)](https://github.com/m3taz-ahmed/aizee)
+[![Coverage](https://img.shields.io/badge/coverage-100%25-10B981?style=for-the-badge)](https://github.com/m3taz-ahmed/aizee)
+[![License](https://img.shields.io/badge/license-MIT-3B82F6?style=for-the-badge)](https://github.com/m3taz-ahmed/aizee/blob/main/LICENSE)
+
 ---
 
 ## Profile
@@ -11,6 +16,8 @@
 Senior Software Engineer & Systems Architect with **15+ years** of experience designing scalable, audit-ready backend systems and Sovereign AI governance frameworks. I specialize in **Laravel**, **Filament**, complex business logic, real-time systems, and internal audit digital transformation.
 
 I build systems that survive scale and scrutiny: high-traffic booking engines, B2B directories, maritime operations dashboards, AI-assisted travel platforms, and compliance platforms with strict RBAC, data integrity, and audit trails.
+
+Creator of **[aiZee](https://github.com/m3taz-ahmed/aizee)** — the enforcement layer for AI coding.
 
 ---
 
@@ -34,6 +41,7 @@ More projects and live products: [m3taz-ahmed.github.io](https://m3taz-ahmed.git
 - **IshraqMed:** 35% increase in patient bookings through real-time scheduling and notifications.
 - **Business Belarabi:** 200+ businesses onboarded in the first quarter.
 - **PPC Internal Audit:** 100% data consistency and automated quarterly compliance reporting.
+- **aiZee v6.5.0:** 29 personas · 151 skills · 65 workflows · 269 tech-stack refs · 7400+ tests · 100% coverage.
 
 ---
 
@@ -42,6 +50,7 @@ More projects and live products: [m3taz-ahmed.github.io](https://m3taz-ahmed.git
 - **Backend:** PHP, Laravel, Node.js, REST, GraphQL, Microservices
 - **Admin & UI:** Filament, Livewire, Alpine.js, Tailwind CSS
 - **Databases:** MySQL, PostgreSQL, Redis
+- **AI Governance:** aiZee — policy gates, budgets, hash-chained audit, governed LLM gateway, MCP
 - **Architecture:** SOLID, MVC, Design Patterns, RBAC, OWASP, Audit-Ready Design
 - **DevOps:** Docker, GitHub Actions, Linux (Nginx/Apache)
 
@@ -49,7 +58,10 @@ More projects and live products: [m3taz-ahmed.github.io](https://m3taz-ahmed.git
 
 ## Open Source
 
-- **[AI Global OS](https://github.com/m3taz-ahmed/ai-globals)** — version-controlled AI governance and architectural rules for Sovereign AI.
+- **[aiZee](https://github.com/m3taz-ahmed/aizee)** — *Your AI agent ships hallucinated APIs and secrets. aiZee blocks them.* Policy, budget, guardrails and audit enforced on the action path for Cursor, Claude Code, Copilot, Windsurf, and MCP. **v6.5.0** · 29 personas · 151 skills · 65 workflows · 7400+ tests · MIT.
+- **[AppLane](https://github.com/m3taz-ahmed/AppLane)** — per-application network routing for Windows (route apps through Wi-Fi, Ethernet, or VPN).
+- **[Sahra Games](https://github.com/m3taz-ahmed/sahra-games)** — Egyptian party games (المندس MUNDAS) — privacy policy & store assets.
+- **Architecture case studies** — 7 public repos listed above.
 
 ---
 
